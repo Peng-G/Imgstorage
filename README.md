@@ -1,2 +1,2 @@
 # Imgstorage
-Image storage for markdown notes.
+Image Cloud for private use.
